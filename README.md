@@ -12,18 +12,18 @@ The objective was  to analyze all the rideshare data from January to early May o
 
 ## 2. Results:
 
-The first deliverable of this analysis was this Data frame that works perfectly as a Summary
+###The first deliverable of this analysis was this Data frame that works perfectly as a Summary
 - <img src = "Resources/summary.png" width= "400" >
-We clearly see these points:
-*Total Urban Rides were 1,625. This represents the 68%, Suburban rides the 26% and the Rural rides  the 5%
-*Total Urban Drivers  were 2,405, this is the 81% of all the drivers in PyBer. Where the  total of Rural drivers were only 78, this means only the 2.6%
-*Total Urban Fares was $39,854,  this is the 63% of the money.
-*The Rural Rides have the highest average fare: $34.62.and the lowest average  fare is for the Urban Rides.
-*The Rural Drivers have the highest average fare per driver: $55.49 where the Urban Drivers have the lowest: $16.57
-The second deliverable was a graphic were we can see the Total Fares per City Type in a line chart from January to May 2019
-- <img src = "Resources/graph.png" width= "400" >
-We can get a clear insight with this graph:
-*The proportion of each city type is consistent throughout this period.
+  We clearly see these points:
+  -*Total Urban Rides were 1,625. This represents the 68%, Suburban rides the 26% and the Rural rides  the 5%
+  -*Total Urban Drivers  were 2,405, this is the 81% of all the drivers in PyBer. Where the  total of Rural drivers were only 78, this means only the 2.6%
+  -*Total Urban Fares was $39,854,  this is the 63% of the money.
+  -*The Rural Rides have the highest average fare: $34.62.and the lowest average  fare is for the Urban Rides.
+  -*The Rural Drivers have the highest average fare per driver: $55.49 where the Urban Drivers have the lowest: $16.57
+ ###The second deliverable was a graphic were we can see the Total Fares per City Type in a line chart from January to May 2019
+  - <img src = "Resources/graph.png" width= "400" >
+   We can get a clear insight with this graph:
+  -*The proportion of each city type is consistent throughout this period.
 
 
 ##Summary: 
