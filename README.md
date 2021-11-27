@@ -1,7 +1,7 @@
 # PyBer Analysis, A ride-sharing app company
 
 
-## 1.Overview of the analysis
+## 1. Overview of the analysis
 
 This is the challenge activity for the module 6 of the Data Analytics and Visualization Boot Camp of the university of Texas at Austin.
 The main idea is to apply the learned skills in Pyhon, Pandas and Matlotlib.
@@ -38,7 +38,7 @@ The objective was  to analyze all the rideshare data from January to early May o
   - The proportion of each city type is consistent throughout this period.
 
 
-## Summary: 
+## 3. Summary: 
 Based on the valuable insights we could get with this analysis we have 3 recommendations:
 
 1. Lower the number of drivers in the Urban cities. The number of drivers is 81% where the number if rides is 68%
