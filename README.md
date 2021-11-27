@@ -13,9 +13,9 @@ The objective was  to analyze all the rideshare data from January to early May o
 ## 2. Results:
 
 ### The first deliverable of this analysis was this Data frame that works perfectly as a Summary
-- <img src = "Resources/summary.png" width= "400" >
+ <img src = "Resources/summary.png" width= "400" >
 
-  ** We clearly see these points:
+  **  We clearly see these points: **
   
   - Total Urban Rides were 1,625. This represents the 68%, Suburban rides the 26% and the Rural rides  the 5%
   
