@@ -5,7 +5,10 @@
 
 This is the challenge activity for the module 6 of the Data Analytics and Visualization Boot Camp of the university of Texas at Austin.
 The main idea is to apply the learned skills in Pyhon, Pandas and Matlotlib.
-- <img src = "Resources/python_pandas_matplotlib.png" width= "400" >
+
+<img src = "Resources/python_pandas_matplotlib.png" width= "400" >
+
+
 The project  was based on data of  PyBer, a ride-sharing app company. 
 The objective was  to analyze all the rideshare data from January to early May of 2019, create a powerful visualization and be able to generate valuable insights
 
@@ -32,7 +35,7 @@ The objective was  to analyze all the rideshare data from January to early May o
   
    We can get a clear insight with this graph:
    
-  -The proportion of each city type is consistent throughout this period.
+  - The proportion of each city type is consistent throughout this period.
 
 
 ## Summary: 
