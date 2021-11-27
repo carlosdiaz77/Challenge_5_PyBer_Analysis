@@ -28,6 +28,9 @@ We can get a clear insight with this graph:
 
 ##Summary: 
 Based on the valuable insights we could get with this analysis we have 3 recommendations:
+
 1.Lower the number of drivers in the Urban cities. The number of drivers is 81% where the number if rides is 68%
+
 1.Increase the number of Driver is the rural area. The total drivers here, is only  2.6% .It is a clear opportunity to increase the labor force.
+
 1.Implement some marketing strategy to capture more users. It is clear the Total Fare in the Rural cities is  only 6.8% of the Total  Fare. There is a good growing revenue opportunity
