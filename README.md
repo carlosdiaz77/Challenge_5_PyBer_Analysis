@@ -6,7 +6,7 @@
 This is the challenge activity for the module 6 of the Data Analytics and Visualization Boot Camp of the university of Texas at Austin.
 The main idea is to apply the learned skills in Pyhon, Pandas and Matlotlib.
 
-<img src = "Resources/python_pandas_matplotlib.png" width= "400" >
+<img src = "Resources/python_pandas_matplotlib2.png" width= "400" >
 
 
 The project  was based on data of  PyBer, a ride-sharing app company. 
