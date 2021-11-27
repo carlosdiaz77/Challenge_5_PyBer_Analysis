@@ -15,7 +15,7 @@ The objective was  to analyze all the rideshare data from January to early May o
 ### The first deliverable of this analysis was this Data frame that works perfectly as a Summary
  <img src = "Resources/summary.png" width= "400" >
 
-  ** ** We clearly see these points: **
+  We clearly see these points:
   
   - Total Urban Rides were 1,625. This represents the 68%, Suburban rides the 26% and the Rural rides  the 5%
   
@@ -28,16 +28,18 @@ The objective was  to analyze all the rideshare data from January to early May o
   - The Rural Drivers have the highest average fare per driver: $55.49 where the Urban Drivers have the lowest: $16.57
   
  ### The second deliverable was a graphic were we can see the Total Fares per City Type in a line chart from January to May 2019
-  - <img src = "Resources/graph.png" width= "400" >
+  <img src = "Resources/graph.png" width= "400" >
+  
    We can get a clear insight with this graph:
-  -*The proportion of each city type is consistent throughout this period.
+   
+  -The proportion of each city type is consistent throughout this period.
 
 
 ## Summary: 
 Based on the valuable insights we could get with this analysis we have 3 recommendations:
 
-1.Lower the number of drivers in the Urban cities. The number of drivers is 81% where the number if rides is 68%
+1. Lower the number of drivers in the Urban cities. The number of drivers is 81% where the number if rides is 68%
 
-1.Increase the number of Driver is the rural area. The total drivers here, is only  2.6% .It is a clear opportunity to increase the labor force.
+2. Increase the number of Driver is the rural area. The total drivers here, is only  2.6% .It is a clear opportunity to increase the labor force.
 
-1.Implement some marketing strategy to capture more users. It is clear the Total Fare in the Rural cities is  only 6.8% of the Total  Fare. There is a good growing revenue opportunity
+3. Implement some marketing strategy to capture more users. It is clear the Total Fare in the Rural cities is  only 6.8% of the Total  Fare. There is a good growing revenue opportunity
